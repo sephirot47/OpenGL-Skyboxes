@@ -1,0 +1,3 @@
+- Poner a RenderTarget una funcion para SetDrawingBuffers, y usarla para que skybox solo pinte al outGColor #1111
+- Añadir a FrameBuffer, Render a un RenderTarget
+- Poner set de matriz de mesh SetModelMatrix, por referencia
